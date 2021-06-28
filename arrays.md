@@ -4,7 +4,7 @@
 
 `const animalArray = ["dog", "cat", "fish"]`
 
-Perform a few operations on the given array:
+Perform a few operations on the given array and log in the console:
 * add two of your favorite animals to the end of the array
 * remove the first two elements of the array
 * replace the last element in the array with the word “last”
@@ -25,7 +25,7 @@ let arr = ["bcn", "mia", "sao", "mex", "par", "mini", "ams", "bear", "paris", "l
 ---
 **Exercise 4:** 
 
-Given array of numbers, calculate the sum and round the sum to one decimal.
+Given array of numbers, calculate the sum and round the sum to one decimal. Print it in the console
 ``` javascript
 const prices = [10.99, 44.56, 112.79, 3, 5];
 let sum = 0; // this is the start value for the sum
