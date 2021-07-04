@@ -48,8 +48,9 @@ let sum = 0; // this is the start value for the sum
 ---
 **Exercise 10:** 
 
-`const someArr = ["max", 34, true, {name: "sandra", student: true}, ["javascript", "mongodb", "react"]];`
-
+``` javascript
+const someArr = ["max", 34, true, {name: "sandra", student: true}, ["javascript", "mongodb", "react"]];
+```
 Loop through the array and print the type of each element of the array in the console.
 
 ---
