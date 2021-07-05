@@ -25,23 +25,112 @@ let arr = ["bcn", "mia", "sao", "mex", "par", "mini", "ams", "bear", "paris", "l
 ---
 **Exercise 4:** 
 
-Given array of numbers, calculate the sum and round the sum to one decimal. Print it in the console
+Given array of numbers, calculate the sum and round the sum to one decimal. Print it in the console.  
 ``` javascript
 const prices = [10.99, 44.56, 112.79, 3, 5];
 let sum = 0; // this is the start value for the sum
 ```
 ---
 **Exercise 5:** 
- 
+ Using the given array of objects:
+1. display price of iPhone,
+1. display both phones’ names,
+1. add a new phone at the beginning of the array,
+1. remove the last element of the array
+
+```javascript
+let products = [
+    {
+        name: "iPhone",
+        price: 799.99
+    },
+    {
+        name: "Samsung Galaxy S10",
+        price: 900.00
+    }
+];
+```
 ---
 **Exercise 6:** 
- 
+
+Given the array, print:
+1. your course type (full-time or part-time)
+1. the most familiar topic
+1. the least familiar topic
+
+```javascript
+let course = {
+  name: "Web Development",
+  type: ["full-time", "part-time"],
+  topics: ["HTML/CSS", "JavaScript", "PostgreSQL", "Node", "Express", "React"]
+};
+```
 ---
 **Exercise 7:** 
  
+Given the object with nested objects in it, print:
+1. name of the course
+1. street
+1. city
+1. the student's name
+
+```javascript
+let student = {
+  firstName: "Ana",
+  lastName: "Blair",
+  course: {
+    name: "Web Development",
+    type: "part-time"
+  },
+  attendedIn: "Madrid",
+  address: {
+    street: "Happy Street",
+    number: 123,
+    city: "Barcelona",
+    zip: 08015,
+    country: "Spain"
+  }
+};
+```
 ---
 **Exercise 8:** 
- 
+
+Retrieve elements from the following object to use as variables, so that you can print this sentence in the console:  
+"At MigraCode, I learn JavaScript and my favourite frameworks are ExpressJS and React".
+
+```javascript
+let skill = {
+  language: "JavaScript",
+  frameworks: [
+    {
+      end: "back",
+      list: [
+        {
+          name: "ExpressJS",
+          released: 2010
+        },
+        {
+          name: "MeteorJS",
+          released: 2012
+        }
+      ]
+    },
+    {
+      end: "front",
+      list: [
+        {
+          name: "ReactJS",
+          released: 2013
+        },
+        {
+          name: "VueJS",
+          released: 2014
+        }
+      ]
+    }
+  ]
+};
+``` 
 ---
 **Exercise 9:** 
  
