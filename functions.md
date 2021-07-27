@@ -30,11 +30,11 @@ Define a function changeToLetters() that receives a string as an argument and re
 
 **Exercise 7:**  
 Define a function that will:
-    count from 1 to 100,
-    on numbers divisible by 3 print Fizz,
-    on numbers divisible by 5 print Buzz,
-    on numbers divisible by 3 and 5 print FizzBuzz,
-    and skips numbers divisible by 9
+* count from 1 to 100,
+* on numbers divisible by 3 print Fizz,
+* on numbers divisible by 5 print Buzz,
+* on numbers divisible by 3 and 5 print FizzBuzz,
+* will skip numbers divisible by 9
 
 ---
 **Exercise  8:**  
