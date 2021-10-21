@@ -1,6 +1,6 @@
 ## Objects
 
-
+**Exercise 1**  
 Iterate over this object and log all the properties in the console:
 ```javascript
 const items = {
@@ -11,9 +11,9 @@ const items = {
   'fifth': null
 }
 ```
-
 ---
 
+**Exercise 2**  
 Define a function checkProperty() that will use the following object passed as an argument. The function is expected to print as output in the console the object and its properties if the house is for sale. If not, a message must be printed telling the user that the property with this address is not for sale. You can make up the text to be printed yourself, but you need to use all the values in the property object.
 
 ```javascript
@@ -37,3 +37,82 @@ let property = {
 ```
 ---
 
+**Exercise 3**  
+Given the object, print:
+1. your course type (full-time or part-time)
+1. the most familiar topic
+1. the least familiar topic
+
+```javascript
+let course = {
+  name: "Web Development",
+  type: ["full-time", "part-time"],
+  topics: ["HTML/CSS", "JavaScript", "PostgreSQL", "Node", "Express", "React"]
+};
+```
+---
+
+**Exercise 4**  
+Given the object with nested objects in it, print:
+1. name of the course
+1. street
+1. city
+1. the student's name
+
+```javascript
+let student = {
+  firstName: "Ana",
+  lastName: "Blair",
+  course: {
+    name: "Web Development",
+    type: "part-time"
+  },
+  attendedIn: "Madrid",
+  address: {
+    street: "Happy Street",
+    number: 123,
+    city: "Barcelona",
+    zip: 08015,
+    country: "Spain"
+  }
+};
+```
+---
+**Exercise 8:** 
+Retrieve elements from the following object to use as variables, so that you can print a sentence in the console, using these words with the variables: 
+"At MigraCode, I learn *variable* and my favourite frameworks are *variable* and *variable*".
+
+```javascript
+let skill = {
+  language: "JavaScript",
+  frameworks: [
+    {
+      end: "back",
+      list: [
+        {
+          name: "ExpressJS",
+          released: 2010
+        },
+        {
+          name: "MeteorJS",
+          released: 2012
+        }
+      ]
+    },
+    {
+      end: "front",
+      list: [
+        {
+          name: "ReactJS",
+          released: 2013
+        },
+        {
+          name: "VueJS",
+          released: 2014
+        }
+      ]
+    }
+  ]
+};
+``` 
+---
