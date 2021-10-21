@@ -38,7 +38,7 @@ Write a condition to check if the word is in the sentence and print the result
 
 A small game of multiples of numbers:
 * print numbers 1 - 50
-* if number divisible by 5, skip
+* if number divisible by 5, do not print it
 * if number is divisible by 10 or 15, print "Hello!"
 * if number not divisible by 2 and the previous number is divisible by 10,
    print "World!"
