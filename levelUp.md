@@ -18,22 +18,22 @@ Write a JavaScript program to rotate the string 'We are CodeWomen' in right dire
 
 ---
 
-**Exercise 4: guess random number**  
-Write a JavaScript program that takes a random integer between 1 and 10. Prompt the user and ask them to input a guess. If the user input matches the random number, the program should show the message "Well done!". If the guess is incorrect, it should show "Sorry, this is not correct".
+**Exercise 4: **  
+.
 
 ---
 
-**Exercise 5: rotate string**  
+**Exercise 5: **  
 
 ---
 
-**Exercise 6: rotate string**  
+**Exercise 6: **  
 
 ---
 
-**Exercise 7: rotate string**  
+**Exercise 7: **  
 
 
 ---
 
-**Exercise 8: rotate string**  
+**Exercise 8: **  
