@@ -58,6 +58,7 @@ const someArr = ["max", 34, true, {name: "sandra", student: true}, ["javascript"
 Loop through the array and print the type of each element of the array in the console.
 
 ---
+
 **Exercise 7:**  
  
 ---
