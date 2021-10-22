@@ -34,7 +34,7 @@ let sum = 0; // this is the start value for the sum
 **Exercise 5:**  
  Using the given array of objects:
 1. display price of iPhone,
-1. display both phones’ names,
+1. display the name of the second phone,
 1. add a new phone at the beginning of the array,
 1. remove the last element of the array
 
