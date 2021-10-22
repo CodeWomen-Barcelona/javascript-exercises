@@ -31,7 +31,7 @@ const prices = [10.99, 44.56, 112.79, 3, 5];
 let sum = 0; // this is the start value for the sum
 ```
 ---
-**Exercise 5:** 
+**Exercise 5:**  
  Using the given array of objects:
 1. display price of iPhone,
 1. display both phones’ names,
@@ -58,14 +58,14 @@ const someArr = ["max", 34, true, {name: "sandra", student: true}, ["javascript"
 Loop through the array and print the type of each element of the array in the console.
 
 ---
-**Exercise 7:** 
+**Exercise 7:**  
  
 ---
 
-**Exercise 9:** 
+**Exercise 9:**  
  
 ---
-**Exercise 10:** 
+**Exercise 10:**  
 
 
 ---
