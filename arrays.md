@@ -52,21 +52,21 @@ let products = [
 ```
 ---
 **Exercise 6:** 
-
+``` javascript
+const someArr = ["max", 34, true, {name: "sandra", student: true}, ["javascript", "mongodb", "react"]];
+```
+Loop through the array and print the type of each element of the array in the console.
 
 ---
 **Exercise 7:** 
  
+---
 
 **Exercise 9:** 
  
 ---
 **Exercise 10:** 
 
-``` javascript
-const someArr = ["max", 34, true, {name: "sandra", student: true}, ["javascript", "mongodb", "react"]];
-```
-Loop through the array and print the type of each element of the array in the console.
 
 ---
 

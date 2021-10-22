@@ -32,10 +32,6 @@ Write a condition to check if the word is in the sentence and print the result
 
 **Exercise 4:**  
 
----
-
-**Exercise 5:**  
-
 A small game of multiples of numbers:
 * print numbers 1 - 50
 * if number divisible by 5, do not print it

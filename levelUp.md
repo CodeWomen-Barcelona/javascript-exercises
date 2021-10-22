@@ -19,7 +19,6 @@ Write a JavaScript program to rotate the string 'We are CodeWomen' in right dire
 ---
 
 **Exercise 4: **  
-.
 
 ---
 

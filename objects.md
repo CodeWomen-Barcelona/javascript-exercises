@@ -78,7 +78,7 @@ let student = {
 };
 ```
 ---
-**Exercise 8:** 
+**Exercise 5:**  
 Retrieve elements from the following object to use as variables, so that you can print a sentence in the console, using these words with the variables: 
 "At MigraCode, I learn *variable* and my favourite frameworks are *variable* and *variable*".
 
