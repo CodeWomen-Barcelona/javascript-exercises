@@ -38,21 +38,6 @@ let property = {
 ---
 
 **Exercise 3**  
-Given the object, print:
-1. your course type (full-time or part-time)
-1. the most familiar topic
-1. the least familiar topic
-
-```javascript
-let course = {
-  name: "Web Development",
-  type: ["full-time", "part-time"],
-  topics: ["HTML/CSS", "JavaScript", "PostgreSQL", "Node", "Express", "React"]
-};
-```
----
-
-**Exercise 4**  
 Given the object with nested objects in it, print:
 1. name of the course
 1. street
