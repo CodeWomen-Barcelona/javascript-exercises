@@ -28,13 +28,27 @@ Create a function to return the longest word in a sentence.
 
 ---
 
-**Exercise 6: **  
+**Exercise 6: multiplication with 7**  
+Print the multiplication table with 7 in format '7 x 1 = 7', etc.
 
 ---
 
-**Exercise 7: **  
-
+**Exercise 7: Celsius to Fahrenheit**  
+Create a function that will convert from Celsius to Fahrenheit
 
 ---
 
-**Exercise 8: **  
+**Exercise 8: Sort by price**  
+Below is an array of drinks, with each drink being an object with two properties: name and price. Create a function that has the drinks array as an argument and return the drinks objects sorted by price in ascending order.
+
+```js
+let drinks = [
+  { name: "lemonade", price: 50 },
+  { name: "lime", price: 10 },
+  { name: "coffee", price: 1.75 },
+  { name: "beer", price: 2.0 },
+  { name: "water", price: 1.0 },
+];
+```
+---
+
