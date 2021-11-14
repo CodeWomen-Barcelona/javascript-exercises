@@ -18,11 +18,13 @@ Write a JavaScript program to rotate the string 'We are CodeWomen' in right dire
 
 ---
 
-**Exercise 4: **  
+**Exercise 4: get singular numbers**  
+Create a function that will receive two arrays and will return an array with elements that are in the first array but not in the second.
 
 ---
 
-**Exercise 5: **  
+**Exercise 5: get longest word**  
+Create a function to return the longest word in a sentence.
 
 ---
 
